@@ -1,0 +1,11 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"font_size": 15,
+	"theme": "auto",
+	"dark_theme": "Default Dark.sublime-theme",
+	"light_theme": "Default Dark.sublime-theme",
+	"index_files": false,
+}
